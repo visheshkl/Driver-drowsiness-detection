@@ -25,8 +25,11 @@ It proposes Deep Learning-based algorithms on the calculated eye closure and mou
 distances, yawns to detect drowsiness.
 
 # Real Time Detection
+## Alert Driver
 ![Driver detected as alert](https://github.com/visheshkl/Driver-drowsiness-detection/blob/master/Alert.png)
+## Drowsy Driver with eyes closed
 ![Drowsy Driver with eyes closed](https://github.com/visheshkl/Driver-drowsiness-detection/blob/master/Drowsy.png)
+## Drowsy Driver with mouth open (yawning)
 ![Drowsy Driver with mouth open (yawning)](https://github.com/visheshkl/Driver-drowsiness-detection/blob/master/Drowsy1.png)
 
 
