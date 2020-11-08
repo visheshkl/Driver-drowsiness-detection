@@ -18,7 +18,6 @@ should be stopped or powered down. Since then, driver drowsiness and its reasons
 being investigated to provide a real-time, practical solution.There are several solutions
 suggested that provide assistance that alerts the driver or takes control of the vehicle if
 drowsiness is detected.
-<p>&nbsp;</p>
 This project aims to consider facial features like the eye and the mouth and study these
 facial features to predict using Open CV to know if the driver is conscious enough.
 It proposes Deep Learning-based algorithms on the calculated eye closure and mouth
